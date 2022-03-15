@@ -1,0 +1,27 @@
+#####################
+#                   #
+#     LOxigenio     #
+#                   #
+#####################
+
+Super_pulo: true
+
+Capacete:
+  Item:
+    Material: GLASS
+    Nome: '&c&lCapacete'
+    Lore:
+      - " "
+      - "&6Teste"
+      - " "
+
+Worlds:
+  - 'Mundo'
+
+Mensagens:
+  Ativado: '&aOxigénio Ativado.'
+  Desativado: '&cOxigénio Desativado.'
+  Capacete_ja_equipado: '&cJá está com capacete.'
+  Capacete_equipado: '&aColocou novamente o seu capacete.'
+  Capacete_Diferente: '&cPossui um capacete diferente já colocado.'
+  Sem_item_mao: '&cVocê não está segurando um capacete.'
