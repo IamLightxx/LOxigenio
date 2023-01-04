@@ -1,8 +1,0 @@
-name: LOxigenio
-version: '${project.version}'
-main: com.uaulight.loxigenio.Main
-authors: [ uauLight ]
-description: Plugin de Oxigénio.
-website: https://skymc.com.br
-commands:
-  capacete:
